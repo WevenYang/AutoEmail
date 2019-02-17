@@ -31,5 +31,9 @@ GitHub项目地址：[https://github.com/WevenYang/AutoEmail](https://github.com
 * 限制太多，扩展性不大，容错率低，有时间会多加改进
 * 使用的是python3版本，没有时间研究python2版本
 
+### 声明
+本项目仅做技术交流使用，任何人或组织无论以何种形式将其用在其他任何地方由此引发的各种问题均与本人无关
+
+
 # AutoEmail
 a convenient email tool for sending specific format file such as salary
